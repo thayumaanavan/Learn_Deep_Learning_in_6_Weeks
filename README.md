@@ -43,6 +43,8 @@ https://github.com/thayumaanavan/Recurrent_Neural_Networks
 - Learn which GPU provider is best for you [here](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39)
 - Write out a simple image classifier using Tensorflow
 
+https://github.com/thayumaanavan/TensorFlow
+
 ## Week 5 - Generative Adversarial Network -COMPLETED
 - Watch the first 7 videos you see [here](https://www.youtube.com/results?search_query=generative+adversarial+network)
 - Build a GAN using no ML libraries
