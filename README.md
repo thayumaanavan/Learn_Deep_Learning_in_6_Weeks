@@ -35,21 +35,25 @@ https://github.com/thayumaanavan/Convolutional_neural_network
 
 https://github.com/thayumaanavan/Recurrent_Neural_Networks
 
-## Week 4 - Tooling
+## Week 4 - Tooling -COMPLETED
 
-- [ ] Watch CS20 (Tensorflow for DL research). Slides are [here](http://web.stanford.edu/class/cs20si/syllabus.html). Playlist is [here](https://www.youtube.com/watch?v=g-EvyKpZjmQ&list=PLDuNt91tg0urwwTQNKyUbncSDvMEl74ww)
-- [ ] Watch my intro to tensorflow playlist [here](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
-- [ ] Read Keras Example code to quickly understand its structure [here](https://keras.io/getting-started/sequential-model-guide/)
-- [ ] Learn which GPU provider is best for you [here](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39)
-- [ ] Write out a simple image classifier using Tensorflow
+- Watch CS20 (Tensorflow for DL research). Slides are [here](http://web.stanford.edu/class/cs20si/syllabus.html). Playlist is [here](https://www.youtube.com/watch?v=g-EvyKpZjmQ&list=PLDuNt91tg0urwwTQNKyUbncSDvMEl74ww)
+- Watch my intro to tensorflow playlist [here](https://www.youtube.com/watch?v=2FmcHiLCwTU&list=PL2-dafEMk2A7EEME489DsI468AB0wQsMV)
+- Read Keras Example code to quickly understand its structure [here](https://keras.io/getting-started/sequential-model-guide/)
+- Learn which GPU provider is best for you [here](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39)
+- Write out a simple image classifier using Tensorflow
 
-## Week 5 - Generative Adversarial Network
-- [ ] Watch the first 7 videos you see [here](https://www.youtube.com/results?search_query=generative+adversarial+network)
-- [ ] Build a GAN using no ML libraries
-- [ ] Build a GAN using tensorflow
-- [ ] Read this to understand the math of GANs, but don't worry if you dont understand it all. This is the bleeding edge [here](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
+## Week 5 - Generative Adversarial Network -COMPLETED
+- Watch the first 7 videos you see [here](https://www.youtube.com/results?search_query=generative+adversarial+network)
+- Build a GAN using no ML libraries
+- Build a GAN using tensorflow
+- Read this to understand the math of GANs, but don't worry if you dont understand it all. This is the bleeding edge [here](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 
-## Week 6 - Deep Reinforcement Learning
-- [ ] Watch CS 294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/) 
-- [ ] Build a Deep Q Network using Tensorflow
+https://github.com/thayumaanavan/Generative-Adversarial-Network
+
+## Week 6 - Deep Reinforcement Learning -COMPLETED
+- Watch CS 294 [here](http://rail.eecs.berkeley.edu/deeprlcourse/) 
+- Build a Deep Q Network using Tensorflow
+
+https://github.com/thayumaanavan/Deep-Reinforcement-Learning
 
